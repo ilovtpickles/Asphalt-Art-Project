@@ -22,7 +22,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 ## Reflection
 
 1. Describe your project.
-   This project showcases an 8x8 pixel image of a enderman, a Minecraft character. 
+   This project showcases an 8x8 pixel image of an Enderman, a Minecraft character. 
 
 3. What are two things about your project that you are proud of?
    Two things about my project that I'm most proud of is incorporating something I'm interested in in my code and also organizing my thought process to create this art. 
