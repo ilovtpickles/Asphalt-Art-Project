@@ -31,6 +31,6 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
    Next time, I would organize my thoughts more clearly by writing comments in my code. I also want to improve my ability to regconize code faster.
    
 7. How is this project related to STEAM (Science, Technology, Engineering, Art, and Mathematics)? Provide explicit examples from the project and details as possible. 
-   This project is related to STEAM as I am engineering an art project using aspects of math, science, and technology. For example, 
+   This project is related to STEAM as I am engineering an art project using aspects of math, science, and technology. For example, in order to think of how to effectively fill in the background space using black pixels and how to create eyes in its designated area, I had to use basic math. Science on the other hand, is subtly related to the project as I created a scientific hypothesis before making my art. However, out of these subjects, technology affected my project the most as the base of the pixel art is technology itself. 
 8. What SLOs did you demonstrate during completing this project?
-
+I demonstrated implementation when completing this project by using the information I gathered in the class and incorporating it into my code. Without implementation, my code would have failed and I wouldn't have been able to increase and identify my learning progress.
